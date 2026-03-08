@@ -54,14 +54,14 @@ Consumer-grade industrial design applied to skilled trades. Partnered with Tacti
 
 | | |
 |---|---|
-| 🇺🇸 **United States** | HQ operations at DCI (Kent, WA), Zonar (Seattle), Rehrig (Dallas/LA), Make and Scale (Bay Area) |
-| 🇮🇳 **India** | DCI development office (Delhi). Managed development team. Executed product line reduction (Aurora Vision) while retaining sales, repairs, and regional ops |
-| 🇨🇳 **China** | DCI regional office (Shanghai). CCC certification. China+1 sourcing strategy for hardware manufacturing |
-| 🇩🇪 **Germany** | DCI regional office (Marktheidenfeld). Continental AG parent ($44B) integration at Zonar. EU regulatory alignment |
-| 🇷🇴 **Romania** | Zonar/Continental development teams. Matrixed engineering leadership across time zones |
-| 🇫🇷 **France** | Zonar/Continental development teams. Cross-functional coordination within $44B parent structure |
-| 🇵🇭 **Philippines** | DCI regional office (Muntinlupa City) |
-| 🇦🇺 **Australia** | DCI regional office (Southport, QLD). APAC market operations |
+| **US** | HQ operations at DCI (Kent, WA), Zonar (Seattle), Rehrig (Dallas/LA), CNC manufacturing shop (Bay Area) |
+| **India** | DCI development office (Delhi). Managed development team. Executed product line reduction (Aurora Vision) while retaining sales, repairs, and regional ops |
+| **China** | DCI regional office (Shanghai). CCC certification. China+1 sourcing strategy for hardware manufacturing |
+| **Germany** | DCI regional office (Marktheidenfeld). Continental AG parent ($44B) integration at Zonar. EU regulatory alignment |
+| **Romania** | Zonar/Continental development teams. Matrixed engineering leadership across time zones |
+| **France** | Zonar/Continental development teams. Cross-functional coordination within $44B parent structure |
+| **Philippines** | DCI regional office (Muntinlupa City) |
+| **Australia** | DCI regional office (Southport, QLD). APAC market operations |
 
 **50+ person matrixed international team** at Zonar across US and EU. Development teams in Romania and France plus third-party contractors. ~90% schedule adherence during COVID. Fully distributed operations.
 
