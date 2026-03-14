@@ -85,5 +85,7 @@ The methodology works in any industry. I have built in all of them. The transfer
 ---
 
 📍 Seattle, WA or Remote
+
 🔗 [LinkedIn](https://linkedin.com/in/nickrichardi)
+
 🔗 [My Website](https://nickrichardi.com/)
