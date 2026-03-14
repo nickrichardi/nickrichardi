@@ -1,6 +1,6 @@
 # Nick Richardi
 
-### Product executive. Builder. Operator.
+### Product Executive. Builder. Operator.
 
 15+ years leading product organizations and shipping global SaaS offerings, smart device ecosystems, and intelligent data platforms across **23 industries** and **100+ countries**. CEO direct report. Portfolio P&L authority. Led five departments: Product Management, Program Management, UX Design, Business Intelligence, and Marketing. Three founded from scratch. Engineering team leadership - direct, matrixed, and contract. Founded a precision CNC manufacturing shop in spare time. Built and maintain a multi-protocol IoT ecosystem. 
 
